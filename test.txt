@@ -1,0 +1,6 @@
+REFERENCE: Your Email to .
+You recently sent email to a mailbox that requires authentication of the sender to reduce spam. Before your message can be delivered you must confirm that you are the sender by clicking on the link below and then clicking on the “Deliver” button that will be displayed. Once you have completed this step, no further authorization will be required for future emails that you send to this address.
+Please confirm your email by visiting the URL
+Thank you for your cooperation in helping us to fight spam.
+Regards,
+gci.net Account Services
